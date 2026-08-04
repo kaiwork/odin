@@ -4,6 +4,6 @@ Course 05 of 07 · [course page](https://www.theodinproject.com/paths/full-stack
 
 ## Databases
 
-- [ ] `01` [Databases](05-databases-infocus/notes/01-databases.md) · [lesson](https://www.theodinproject.com/lessons/node-path-databases)
-- [ ] `02` [Databases and SQL](05-databases-infocus/notes/02-databases-and-sql.md) · [lesson](https://www.theodinproject.com/lessons/node-path-databases-databases-and-sql)
-- [ ] `03` [**Project: SQL Zoo**](05-databases-infocus/projects/03-sql-zoo/) · [lesson](https://www.theodinproject.com/lessons/node-path-databases-sql-zoo)
+- [ ] `01` [Databases](notes/01-databases.md) · [lesson](https://www.theodinproject.com/lessons/node-path-databases)
+- [ ] `02` [Databases and SQL](notes/02-databases-and-sql.md) · [lesson](https://www.theodinproject.com/lessons/node-path-databases-databases-and-sql)
+- [ ] `03` [**Project: SQL Zoo**](projects/03-sql-zoo/) · [lesson](https://www.theodinproject.com/lessons/node-path-databases-sql-zoo)
