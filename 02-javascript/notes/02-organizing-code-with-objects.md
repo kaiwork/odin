@@ -1,0 +1,29 @@
+# Organizing Code with Objects
+
+| | |
+|---|---|
+| **Course** | JavaScript |
+| **Section** | Organizing Your JavaScript Code |
+| **Lesson** | <https://www.theodinproject.com/lessons/node-path-javascript-organizing-code-with-objects> |
+| **Status** | ⬜ Not started |
+
+## Learning outcomes
+
+<!-- Paste the lesson's "Learning outcomes" bullets here, then answer each one
+     in your own words once you've finished reading. -->
+
+- [ ]
+
+## Notes
+
+-
+
+## Code snippets
+
+```js
+
+```
+
+## Questions / to revisit
+
+-
