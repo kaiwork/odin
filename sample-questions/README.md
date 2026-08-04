@@ -63,7 +63,8 @@ reading a stated input limit as a performance budget
 | [`31-common-data-structures-and-algorithms`](../02-javascript-infocus/notes/31-common-data-structures-and-algorithms.md) | Queues, greedy patterns |
 | [`33-hashmap-data-structure`](../02-javascript-infocus/notes/33-hashmap-data-structure.md) | Hash maps in depth |
 | [Project: HashMap](../02-javascript-infocus/projects/34-hashmap/) | Build one from scratch |
-| [`07-classes`](../02-javascript-infocus/notes/07-classes.md) | Packaging state and behaviour together |
+| [`05-factory-functions-and-the-module-pattern`](../02-javascript-infocus/notes/05-factory-functions-and-the-module-pattern.md) | Closures holding per-key state — the factory route to a stateful helper |
+| [`07-classes`](../02-javascript-infocus/notes/07-classes.md) | Packaging state and behaviour together — the class route |
 | [`23-api-security`](../06-nodejs/notes/23-api-security.md) | Throttling and abuse prevention in production middleware |
 
 ---

@@ -9,10 +9,11 @@ Prerequisite course — precedes the Full Stack JavaScript path · [course page]
 - [ ] `35` [Function Basics](notes/35-function-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-function-basics)
 - [ ] `36` [Problem Solving](notes/36-problem-solving.md) · [lesson](https://www.theodinproject.com/lessons/foundations-problem-solving)
 - [ ] `37` [Understanding Errors](notes/37-understanding-errors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-understanding-errors)
+- [ ] `38` [**Project: Rock Paper Scissors**](projects/38-rock-paper-scissors/) · [lesson](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 - [ ] `40` [Loops and Arrays](notes/40-loops-and-arrays.md) · [lesson](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
 - [ ] `44` [Object Basics](notes/44-object-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-object-basics)
 
-<details><summary><b>Later — 29 items not needed for the practice questions</b></summary>
+<details><summary><b>Later — 28 items not needed for the practice questions</b></summary>
 
 - [ ] `06` [How Does the Web Work?](later/notes/06-how-does-the-web-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)  ·  _Prerequisites_
 - [ ] `09` [Command Line Basics](later/notes/09-command-line-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-command-line-basics)  ·  _Prerequisites_
@@ -37,7 +38,6 @@ Prerequisite course — precedes the Full Stack JavaScript path · [course page]
 - [ ] `29` [Alignment](later/notes/29-alignment.md) · [lesson](https://www.theodinproject.com/lessons/foundations-alignment)  ·  _Flexbox_
 - [ ] `30` [**Project: Landing Page**](later/projects/30-landing-page/) · [lesson](https://www.theodinproject.com/lessons/foundations-landing-page)  ·  _Flexbox_
 - [ ] `34` [JavaScript Developer Tools](later/notes/34-javascript-developer-tools.md) · [lesson](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)  ·  _JavaScript Basics_
-- [ ] `38` [**Project: Rock Paper Scissors**](later/projects/38-rock-paper-scissors/) · [lesson](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)  ·  _JavaScript Basics_
 - [ ] `39` [Clean Code](later/notes/39-clean-code.md) · [lesson](https://www.theodinproject.com/lessons/foundations-clean-code)  ·  _JavaScript Basics_
 - [ ] `41` [DOM Manipulation and Events](later/notes/41-dom-manipulation-and-events.md) · [lesson](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)  ·  _JavaScript Basics_
 - [ ] `42` [Revisiting Rock Paper Scissors](later/notes/42-revisiting-rock-paper-scissors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)  ·  _JavaScript Basics_
