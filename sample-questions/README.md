@@ -17,11 +17,11 @@ preserving source order
 
 | Lesson | Covers |
 |---|---|
-| [`19-asynchronous-code`](../02-javascript/notes/19-asynchronous-code.md) | Callbacks → Promises; the mental model |
-| [`20-working-with-apis`](../02-javascript/notes/20-working-with-apis.md) | `fetch`, endpoints, query params |
-| [`21-async-and-await`](../02-javascript/notes/21-async-and-await.md) | The syntax, including sequential vs parallel |
-| [`13-json`](../02-javascript/notes/13-json.md) | Parsing and walking a response object |
-| [Project: Weather App](../02-javascript/projects/22-weather-app/) | Fetch, parse, render — the closest project |
+| [`19-asynchronous-code`](../02-javascript-infocus/notes/19-asynchronous-code.md) | Callbacks → Promises; the mental model |
+| [`20-working-with-apis`](../02-javascript-infocus/notes/20-working-with-apis.md) | `fetch`, endpoints, query params |
+| [`21-async-and-await`](../02-javascript-infocus/notes/21-async-and-await.md) | The syntax, including sequential vs parallel |
+| [`13-json`](../02-javascript-infocus/notes/13-json.md) | Parsing and walking a response object |
+| [Project: Weather App](../02-javascript-infocus/projects/22-weather-app/) | Fetch, parse, render — the closest project |
 | [`22-api-basics`](../06-nodejs/notes/22-api-basics.md) | The other side: designing a paginated API |
 
 ---
@@ -37,10 +37,10 @@ multi-column `ORDER BY`
 
 | Lesson | Covers |
 |---|---|
-| [`01-databases`](../05-databases/notes/01-databases.md) | Relational model, keys |
-| [`02-databases-and-sql`](../05-databases/notes/02-databases-and-sql.md) | The whole query toolkit |
-| [Project: SQL Zoo](../05-databases/projects/03-sql-zoo/) | Drilling these query shapes |
-| [`15-installing-postgresql`](../06-nodejs/notes/15-installing-postgresql.md) | A local `psql` to practise in |
+| [`01-databases`](../05-databases-infocus/notes/01-databases.md) | Relational model, keys |
+| [`02-databases-and-sql`](../05-databases-infocus/notes/02-databases-and-sql.md) | The whole query toolkit |
+| [Project: SQL Zoo](../05-databases-infocus/projects/03-sql-zoo/) | Drilling these query shapes |
+| [Installing PostgreSQL](https://www.theodinproject.com/lessons/nodejs-installing-postgresql) | A local `psql` to practise in (setup lesson — no local note) |
 | [`16-using-postgresql`](../06-nodejs/notes/16-using-postgresql.md) | Running queries from Node |
 
 > Databases is course **05 of 07**, but these two lessons are self-contained enough to
@@ -57,13 +57,13 @@ reading a stated input limit as a performance budget
 
 | Lesson | Covers |
 |---|---|
-| [`26-a-very-brief-intro-to-cs`](../02-javascript/notes/26-a-very-brief-intro-to-cs.md) | Framing |
-| [`29-time-complexity`](../02-javascript/notes/29-time-complexity.md) | Which approaches a given input size allows |
-| [`30-space-complexity`](../02-javascript/notes/30-space-complexity.md) | Space/time trade-offs |
-| [`31-common-data-structures-and-algorithms`](../02-javascript/notes/31-common-data-structures-and-algorithms.md) | Queues, greedy patterns |
-| [`33-hashmap-data-structure`](../02-javascript/notes/33-hashmap-data-structure.md) | Hash maps in depth |
-| [Project: HashMap](../02-javascript/projects/34-hashmap/) | Build one from scratch |
-| [`07-classes`](../02-javascript/notes/07-classes.md) | Packaging state and behaviour together |
+| [`26-a-very-brief-intro-to-cs`](../02-javascript-infocus/notes/26-a-very-brief-intro-to-cs.md) | Framing |
+| [`29-time-complexity`](../02-javascript-infocus/notes/29-time-complexity.md) | Which approaches a given input size allows |
+| [`30-space-complexity`](../02-javascript-infocus/notes/30-space-complexity.md) | Space/time trade-offs |
+| [`31-common-data-structures-and-algorithms`](../02-javascript-infocus/notes/31-common-data-structures-and-algorithms.md) | Queues, greedy patterns |
+| [`33-hashmap-data-structure`](../02-javascript-infocus/notes/33-hashmap-data-structure.md) | Hash maps in depth |
+| [Project: HashMap](../02-javascript-infocus/projects/34-hashmap/) | Build one from scratch |
+| [`07-classes`](../02-javascript-infocus/notes/07-classes.md) | Packaging state and behaviour together |
 | [`23-api-security`](../06-nodejs/notes/23-api-security.md) | Throttling and abuse prevention in production middleware |
 
 ---
@@ -78,13 +78,13 @@ reading error messages · problem decomposition
 
 | Lesson | Covers |
 |---|---|
-| [`31-variables-and-operators`](../00-foundations/notes/31-variables-and-operators.md) | Basics |
-| [`33-data-types-and-conditionals`](../00-foundations/notes/33-data-types-and-conditionals.md) | Types, comparisons, branching |
-| [`35-function-basics`](../00-foundations/notes/35-function-basics.md) | Parameters, returns, scope |
-| [`36-problem-solving`](../00-foundations/notes/36-problem-solving.md) | Pseudocode-first — worth reading before any algorithm problem |
-| [`37-understanding-errors`](../00-foundations/notes/37-understanding-errors.md) | Reading stack traces |
-| [`40-loops-and-arrays`](../00-foundations/notes/40-loops-and-arrays.md) | Iteration, array methods, sorting |
-| [`44-object-basics`](../00-foundations/notes/44-object-basics.md) | Objects as keyed state |
+| [`31-variables-and-operators`](../00-foundations-infocus/notes/31-variables-and-operators.md) | Basics |
+| [`33-data-types-and-conditionals`](../00-foundations-infocus/notes/33-data-types-and-conditionals.md) | Types, comparisons, branching |
+| [`35-function-basics`](../00-foundations-infocus/notes/35-function-basics.md) | Parameters, returns, scope |
+| [`36-problem-solving`](../00-foundations-infocus/notes/36-problem-solving.md) | Pseudocode-first — worth reading before any algorithm problem |
+| [`37-understanding-errors`](../00-foundations-infocus/notes/37-understanding-errors.md) | Reading stack traces |
+| [`40-loops-and-arrays`](../00-foundations-infocus/notes/40-loops-and-arrays.md) | Iteration, array methods, sorting |
+| [`44-object-basics`](../00-foundations-infocus/notes/44-object-basics.md) | Objects as keyed state |
 
 ---
 
