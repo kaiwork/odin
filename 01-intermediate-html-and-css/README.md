@@ -1,10 +1,9 @@
 # Intermediate HTML and CSS
 
-Course 01 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) · 20 lessons · 2 projects
+Course 01 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) · 19 lessons · 2 projects
 
 ## Intermediate HTML Concepts
 
-- [ ] `01` [Introduction](01-intermediate-html-and-css/notes/01-introduction.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)
 - [ ] `02` [SVG](01-intermediate-html-and-css/notes/02-svg.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg)
 - [ ] `03` [Tables](01-intermediate-html-and-css/notes/03-tables.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables)
 

@@ -1,12 +1,11 @@
 # NodeJS
 
-Course 06 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) · 21 lessons · 9 projects
+Course 06 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs) · 18 lessons · 9 projects
 
 ## Introduction to NodeJS
 
 - [ ] `01` [Introduction to the Back End](06-nodejs/notes/01-introduction-to-the-back-end.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-introduction-to-the-back-end)
 - [ ] `02` [Introduction: What is NodeJS?](06-nodejs/notes/02-introduction-what-is-nodejs.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs)
-- [ ] `03` [Getting Started](06-nodejs/notes/03-getting-started.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-getting-started)
 - [ ] `04` [Debugging Node](06-nodejs/notes/04-debugging-node.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-debugging-node)
 - [ ] `05` [**Project: Basic Informational Site**](06-nodejs/projects/05-basic-informational-site/) · [lesson](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)
 - [ ] `06` [Environment Variables](06-nodejs/notes/06-environment-variables.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-environment-variables)
@@ -21,7 +20,6 @@ Course 06 of 07 · [course page](https://www.theodinproject.com/paths/full-stack
 - [ ] `12` [**Project: Mini Message Board**](06-nodejs/projects/12-mini-message-board/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-mini-message-board)
 - [ ] `13` [Deployment](06-nodejs/notes/13-deployment.md) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-deployment)
 - [ ] `14` [Forms and Data Handling](06-nodejs/notes/14-forms-and-data-handling.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-forms-and-data-handling)
-- [ ] `15` [Installing PostgreSQL](06-nodejs/notes/15-installing-postgresql.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-installing-postgresql)
 - [ ] `16` [Using PostgreSQL](06-nodejs/notes/16-using-postgresql.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-using-postgresql)
 - [ ] `17` [**Project: Inventory Application**](06-nodejs/projects/17-inventory-application/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-inventory-application)
 
@@ -54,4 +52,3 @@ Course 06 of 07 · [course page](https://www.theodinproject.com/paths/full-stack
 ## Final Project
 
 - [ ] `29` [**Project: Odin-Book**](06-nodejs/projects/29-odin-book/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-odin-book)
-- [ ] `30` [Conclusion](06-nodejs/notes/30-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-conclusion)

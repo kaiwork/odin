@@ -11,31 +11,20 @@ questions in `sample-questions/`, mapped to the lessons that teach them.
 
 ## Progress
 
-**197 items — 162 lessons + 35 projects.**
+**166 items — 131 lessons + 35 projects.**
 
-- Foundations (prerequisite): 41 lessons + 5 projects
-- Full Stack JavaScript (7 courses): 121 lessons + 30 projects
+- Foundations (prerequisite): 31 lessons + 5 projects
+- Full Stack JavaScript (7 courses): 100 lessons + 30 projects
 
 
 ### `00` [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-_41 lessons · 5 projects · **prerequisite path, not part of Full Stack JavaScript**_
-
-**Introduction**
-
-- [ ] `01` [How This Course Will Work](00-foundations/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
-- [ ] `02` [Introduction to Web Development](00-foundations/notes/02-introduction-to-web-development.md) · [lesson](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
-- [ ] `03` [Motivation and Mindset](00-foundations/notes/03-motivation-and-mindset.md) · [lesson](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
-- [ ] `04` [Asking For Help](00-foundations/notes/04-asking-for-help.md) · [lesson](https://www.theodinproject.com/lessons/foundations-asking-for-help)
-- [ ] `05` [Join the Odin Community](00-foundations/notes/05-join-the-odin-community.md) · [lesson](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+_31 lessons · 5 projects · **prerequisite path, not part of Full Stack JavaScript**_
 
 **Prerequisites**
 
 - [ ] `06` [How Does the Web Work?](00-foundations/notes/06-how-does-the-web-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
-- [ ] `07` [Installations](00-foundations/notes/07-installations.md) · [lesson](https://www.theodinproject.com/lessons/foundations-installations)
-- [ ] `08` [Text Editors](00-foundations/notes/08-text-editors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-text-editors)
 - [ ] `09` [Command Line Basics](00-foundations/notes/09-command-line-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-command-line-basics)
-- [ ] `10` [Setting up Git](00-foundations/notes/10-setting-up-git.md) · [lesson](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 **Git Basics**
 
@@ -72,7 +61,6 @@ _41 lessons · 5 projects · **prerequisite path, not part of Full Stack JavaScr
 **JavaScript Basics**
 
 - [ ] `31` [Variables and Operators](00-foundations/notes/31-variables-and-operators.md) · [lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
-- [ ] `32` [Installing Node.js](00-foundations/notes/32-installing-node-js.md) · [lesson](https://www.theodinproject.com/lessons/foundations-installing-node-js)
 - [ ] `33` [Data Types and Conditionals](00-foundations/notes/33-data-types-and-conditionals.md) · [lesson](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 - [ ] `34` [JavaScript Developer Tools](00-foundations/notes/34-javascript-developer-tools.md) · [lesson](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 - [ ] `35` [Function Basics](00-foundations/notes/35-function-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-function-basics)
@@ -87,17 +75,12 @@ _41 lessons · 5 projects · **prerequisite path, not part of Full Stack JavaScr
 - [ ] `44` [Object Basics](00-foundations/notes/44-object-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-object-basics)
 - [ ] `45` [**Project: Calculator**](00-foundations/projects/45-calculator/) · [lesson](https://www.theodinproject.com/lessons/foundations-calculator)
 
-**Conclusion**
-
-- [ ] `46` [Choose Your Path Forward](00-foundations/notes/46-choose-your-path-forward.md) · [lesson](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)
-
 ### `01` [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
-_20 lessons · 2 projects_
+_19 lessons · 2 projects_
 
 **Intermediate HTML Concepts**
 
-- [ ] `01` [Introduction](01-intermediate-html-and-css/notes/01-introduction.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-introduction)
 - [ ] `02` [SVG](01-intermediate-html-and-css/notes/02-svg.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-svg)
 - [ ] `03` [Tables](01-intermediate-html-and-css/notes/03-tables.md) · [lesson](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-tables)
 
@@ -131,11 +114,7 @@ _20 lessons · 2 projects_
 
 ### `02` [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
 
-_29 lessons · 12 projects_
-
-**Introduction**
-
-- [ ] `01` [How This Course Will Work](02-javascript/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-how-this-course-will-work)
+_27 lessons · 12 projects_
 
 **Organizing Your JavaScript Code**
 
@@ -196,7 +175,6 @@ _29 lessons · 12 projects_
 **Finishing Up with JavaScript**
 
 - [ ] `40` [**Project: Battleship**](02-javascript/projects/40-battleship/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-battleship)
-- [ ] `41` [Conclusion](02-javascript/notes/41-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-conclusion)
 
 ### `03` [Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
 
@@ -229,13 +207,11 @@ _15 lessons · 1 projects_
 
 ### `04` [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
 
-_22 lessons · 3 projects_
+_19 lessons · 3 projects_
 
 **Introduction**
 
-- [ ] `01` [How This Course Will Work](04-react/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-how-this-course-will-work)
 - [ ] `02` [Introduction To React](04-react/notes/02-introduction-to-react.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react)
-- [ ] `03` [Setting Up A React Environment](04-react/notes/03-setting-up-a-react-environment.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment)
 
 **Getting Started With React**
 
@@ -276,10 +252,6 @@ _22 lessons · 3 projects_
 - [ ] `23` [Reducing State](04-react/notes/23-reducing-state.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-reducing-state)
 - [ ] `24` [Refs And Memoization](04-react/notes/24-refs-and-memoization.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-refs-and-memoization)
 
-**Conclusion**
-
-- [ ] `25` [Conclusion](04-react/notes/25-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-conclusion)
-
 ### `05` [Databases](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases)
 
 _2 lessons · 1 projects_
@@ -292,13 +264,12 @@ _2 lessons · 1 projects_
 
 ### `06` [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 
-_21 lessons · 9 projects_
+_18 lessons · 9 projects_
 
 **Introduction to NodeJS**
 
 - [ ] `01` [Introduction to the Back End](06-nodejs/notes/01-introduction-to-the-back-end.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-introduction-to-the-back-end)
 - [ ] `02` [Introduction: What is NodeJS?](06-nodejs/notes/02-introduction-what-is-nodejs.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-introduction-what-is-nodejs)
-- [ ] `03` [Getting Started](06-nodejs/notes/03-getting-started.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-getting-started)
 - [ ] `04` [Debugging Node](06-nodejs/notes/04-debugging-node.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-debugging-node)
 - [ ] `05` [**Project: Basic Informational Site**](06-nodejs/projects/05-basic-informational-site/) · [lesson](https://www.theodinproject.com/lessons/nodejs-basic-informational-site)
 - [ ] `06` [Environment Variables](06-nodejs/notes/06-environment-variables.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-environment-variables)
@@ -313,7 +284,6 @@ _21 lessons · 9 projects_
 - [ ] `12` [**Project: Mini Message Board**](06-nodejs/projects/12-mini-message-board/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-mini-message-board)
 - [ ] `13` [Deployment](06-nodejs/notes/13-deployment.md) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-deployment)
 - [ ] `14` [Forms and Data Handling](06-nodejs/notes/14-forms-and-data-handling.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-forms-and-data-handling)
-- [ ] `15` [Installing PostgreSQL](06-nodejs/notes/15-installing-postgresql.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-installing-postgresql)
 - [ ] `16` [Using PostgreSQL](06-nodejs/notes/16-using-postgresql.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-using-postgresql)
 - [ ] `17` [**Project: Inventory Application**](06-nodejs/projects/17-inventory-application/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-inventory-application)
 
@@ -346,28 +316,15 @@ _21 lessons · 9 projects_
 **Final Project**
 
 - [ ] `29` [**Project: Odin-Book**](06-nodejs/projects/29-odin-book/) · [lesson](https://www.theodinproject.com/lessons/node-path-nodejs-odin-book)
-- [ ] `30` [Conclusion](06-nodejs/notes/30-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/nodejs-conclusion)
 
 ### `07` [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 
-_12 lessons · 2 projects_
+_0 lessons · 2 projects_
 
 **Preparing for Your Job Search**
 
-- [ ] `01` [How This Course Will Work](07-getting-hired/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-how-this-course-will-work)
-- [ ] `02` [Professional Networking](07-getting-hired/notes/02-professional-networking.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-professional-networking)
-- [ ] `03` [Strategy](07-getting-hired/notes/03-strategy.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-strategy)
-- [ ] `04` [It Starts with YOU](07-getting-hired/notes/04-it-starts-with-you.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-it-starts-with-you)
-- [ ] `05` [What Companies Want](07-getting-hired/notes/05-what-companies-want.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-what-companies-want)
-- [ ] `06` [What You Can Do to Prepare](07-getting-hired/notes/06-what-you-can-do-to-prepare.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-what-you-can-do-to-prepare)
 - [ ] `07` [**Project: Building Your Personal Website**](07-getting-hired/projects/07-building-your-personal-website/) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-building-your-personal-website)
 
 **Applying to and Interviewing for Jobs**
 
-- [ ] `08` [Collecting Job Leads](07-getting-hired/notes/08-collecting-job-leads.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-collecting-job-leads)
-- [ ] `09` [Qualifying Job Leads](07-getting-hired/notes/09-qualifying-job-leads.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-qualifying-job-leads)
 - [ ] `10` [**Project: Building Your Resume**](07-getting-hired/projects/10-building-your-resume/) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-building-your-resume)
-- [ ] `11` [Applying for Web Development Jobs](07-getting-hired/notes/11-applying-for-web-development-jobs.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-applying-for-web-development-jobs)
-- [ ] `12` [Preparing to Interview and Interviewing](07-getting-hired/notes/12-preparing-to-interview-and-interviewing.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-preparing-to-interview-and-interviewing)
-- [ ] `13` [Handling a Job Offer](07-getting-hired/notes/13-handling-a-job-offer.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-handling-a-job-offer)
-- [ ] `14` [Conclusion](07-getting-hired/notes/14-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/node-path-getting-hired-conclusion)

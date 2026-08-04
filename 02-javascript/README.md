@@ -1,10 +1,6 @@
 # JavaScript
 
-Course 02 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) · 29 lessons · 12 projects
-
-## Introduction
-
-- [ ] `01` [How This Course Will Work](02-javascript/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-how-this-course-will-work)
+Course 02 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) · 27 lessons · 12 projects
 
 ## Organizing Your JavaScript Code
 
@@ -65,4 +61,3 @@ Course 02 of 07 · [course page](https://www.theodinproject.com/paths/full-stack
 ## Finishing Up with JavaScript
 
 - [ ] `40` [**Project: Battleship**](02-javascript/projects/40-battleship/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-battleship)
-- [ ] `41` [Conclusion](02-javascript/notes/41-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-conclusion)

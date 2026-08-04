@@ -1,22 +1,11 @@
 # Foundations
 
-Prerequisite course — precedes the Full Stack JavaScript path · [course page](https://www.theodinproject.com/paths/foundations/courses/foundations) · 41 lessons · 5 projects
-
-## Introduction
-
-- [ ] `01` [How This Course Will Work](00-foundations/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-this-course-will-work)
-- [ ] `02` [Introduction to Web Development](00-foundations/notes/02-introduction-to-web-development.md) · [lesson](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development)
-- [ ] `03` [Motivation and Mindset](00-foundations/notes/03-motivation-and-mindset.md) · [lesson](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset)
-- [ ] `04` [Asking For Help](00-foundations/notes/04-asking-for-help.md) · [lesson](https://www.theodinproject.com/lessons/foundations-asking-for-help)
-- [ ] `05` [Join the Odin Community](00-foundations/notes/05-join-the-odin-community.md) · [lesson](https://www.theodinproject.com/lessons/foundations-join-the-odin-community)
+Prerequisite course — precedes the Full Stack JavaScript path · [course page](https://www.theodinproject.com/paths/foundations/courses/foundations) · 31 lessons · 5 projects
 
 ## Prerequisites
 
 - [ ] `06` [How Does the Web Work?](00-foundations/notes/06-how-does-the-web-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)
-- [ ] `07` [Installations](00-foundations/notes/07-installations.md) · [lesson](https://www.theodinproject.com/lessons/foundations-installations)
-- [ ] `08` [Text Editors](00-foundations/notes/08-text-editors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-text-editors)
 - [ ] `09` [Command Line Basics](00-foundations/notes/09-command-line-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-command-line-basics)
-- [ ] `10` [Setting up Git](00-foundations/notes/10-setting-up-git.md) · [lesson](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 
 ## Git Basics
 
@@ -53,7 +42,6 @@ Prerequisite course — precedes the Full Stack JavaScript path · [course page]
 ## JavaScript Basics
 
 - [ ] `31` [Variables and Operators](00-foundations/notes/31-variables-and-operators.md) · [lesson](https://www.theodinproject.com/lessons/foundations-variables-and-operators)
-- [ ] `32` [Installing Node.js](00-foundations/notes/32-installing-node-js.md) · [lesson](https://www.theodinproject.com/lessons/foundations-installing-node-js)
 - [ ] `33` [Data Types and Conditionals](00-foundations/notes/33-data-types-and-conditionals.md) · [lesson](https://www.theodinproject.com/lessons/foundations-data-types-and-conditionals)
 - [ ] `34` [JavaScript Developer Tools](00-foundations/notes/34-javascript-developer-tools.md) · [lesson](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)
 - [ ] `35` [Function Basics](00-foundations/notes/35-function-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-function-basics)
@@ -67,7 +55,3 @@ Prerequisite course — precedes the Full Stack JavaScript path · [course page]
 - [ ] `43` [**Project: Etch-a-Sketch**](00-foundations/projects/43-etch-a-sketch/) · [lesson](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
 - [ ] `44` [Object Basics](00-foundations/notes/44-object-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-object-basics)
 - [ ] `45` [**Project: Calculator**](00-foundations/projects/45-calculator/) · [lesson](https://www.theodinproject.com/lessons/foundations-calculator)
-
-## Conclusion
-
-- [ ] `46` [Choose Your Path Forward](00-foundations/notes/46-choose-your-path-forward.md) · [lesson](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward)

@@ -1,12 +1,10 @@
 # React
 
-Course 04 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/react) · 22 lessons · 3 projects
+Course 04 of 07 · [course page](https://www.theodinproject.com/paths/full-stack-javascript/courses/react) · 19 lessons · 3 projects
 
 ## Introduction
 
-- [ ] `01` [How This Course Will Work](04-react/notes/01-how-this-course-will-work.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-how-this-course-will-work)
 - [ ] `02` [Introduction To React](04-react/notes/02-introduction-to-react.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-introduction-to-react)
-- [ ] `03` [Setting Up A React Environment](04-react/notes/03-setting-up-a-react-environment.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-setting-up-a-react-environment)
 
 ## Getting Started With React
 
@@ -46,7 +44,3 @@ Course 04 of 07 · [course page](https://www.theodinproject.com/paths/full-stack
 - [ ] `22` [Managing State With The Context API](04-react/notes/22-managing-state-with-the-context-api.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-managing-state-with-the-context-api)
 - [ ] `23` [Reducing State](04-react/notes/23-reducing-state.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-reducing-state)
 - [ ] `24` [Refs And Memoization](04-react/notes/24-refs-and-memoization.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-new-refs-and-memoization)
-
-## Conclusion
-
-- [ ] `25` [Conclusion](04-react/notes/25-conclusion.md) · [lesson](https://www.theodinproject.com/lessons/node-path-react-conclusion)
