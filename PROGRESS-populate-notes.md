@@ -33,9 +33,9 @@ Invocations:
 | react-1 (10 notes) | write:react-1 | done | 10/10 | 04-react/notes/ |
 | react-2 (9 notes) | write:react-2 | done | 9/9 | 04-react/notes/ |
 | databases-nodejs (20 notes) | write:databases-nodejs | done | 20/20 | 05-databases + 06-nodejs notes/ |
-| webpack URL fix (3 files) + primer | (inline) + fix:webpack | running | slug → javascript-webpack | 02-javascript/notes/10-webpack.md |
-| verify: accuracy lens | verify:accuracy | running | — | — |
-| verify: consistency lens | verify:consistency | running | — | — |
+| webpack URL fix (3 files) + primer | (inline) + fix:webpack | done | 1/1 written | 02-javascript/notes/10-webpack.md |
+| verify: accuracy lens | verify:accuracy | done | clean — 131 checked, 0 issues | — |
+| verify: consistency lens | verify:consistency | done | clean — 131 checked, 0 issues | — |
 
 Checkpoint after A2 (write): 10/10 writers, 130/131 primers, 0 errors, ~625k subagent
 tokens. Mechanical checks: only */notes/*.md touched; all 130 metadata tables
@@ -49,8 +49,17 @@ Foundations — metadata kept); webpack slug renamed on Odin's side → fixed in
   output /private/tmp/claude-501/-Users-wenkai-Desktop-odin/511e53a5-bf53-4549-abfd-d9e58631f7c9/tasks/w9z8oyu4q.output — status: running.
   Ledger: 13/14 spent (10 write + 1 fix + 2 verify); 1 RESERVE held for re-verify.
 
-### Open decisions (need a human owner)
-- Push `populate-notes` to GitHub only after user reviews the diff (131 pages of generated prose to a public repo).
+- B1 (fix+verify) completed: 3/3 agents, 0 errors, ~301k subagent tokens. Fixer wrote
+  webpack primer; both lenses clean (131 files each, 0 issues).
 
-Completion: pending — partitions at
-/private/tmp/claude-501/-Users-wenkai-Desktop-odin/511e53a5-bf53-4549-abfd-d9e58631f7c9/scratchpad/partitions.json
+### Open decisions (need a human owner)
+- Merge `populate-notes` into `main` and push to GitHub — awaiting user review of the
+  diff (131 pages of generated prose going to a public repo).
+
+Completion: 13/13 agents across 2 invocations (10 write + 1 fix + 2 verify), 0 errors.
+Reserve: 1 of 2 slots unspent (re-verify not needed — verification was clean).
+Run IDs wf_44e49154-a0e, wf_04d93838-d03 → /workflows + journal.jsonl per invocation.
+Final commit on branch: 1f8cd5c (170 files, +8,725/−2,286 vs main).
+Mechanical validation: 131/131 primers, all required sections, metadata tables
+byte-identical, lesson URLs intact, user sections empty, diff scope exactly
+*/notes/*.md + two README slug fixes.
