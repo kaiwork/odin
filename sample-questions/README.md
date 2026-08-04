@@ -21,8 +21,7 @@ places in the path — so "can I do this yet?" has a different answer per questi
 
 ## Cluster A — Async, REST & pagination (q5, q6)
 
-Both consume a paginated `the practice API` endpoint and reduce the collected
-records to an answer.
+Both consume a paginated REST endpoint and reduce the collected records to an answer.
 
 Concepts under test:
 
