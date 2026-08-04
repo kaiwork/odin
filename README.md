@@ -4,6 +4,9 @@ Study repo tracking the [Full Stack JavaScript path](https://www.theodinproject.
 Lesson notes live in each course's `notes/`; project code lives in `projects/`.
 Tick a box when you finish an item.
 
+📋 **[Practice questions → curriculum map](sample-questions/README.md)** — the six
+questions in `sample-questions/`, mapped to the lessons that teach them.
+
 ## Progress
 
 **151 items — 121 lessons + 30 projects across 7 courses.**
