@@ -12,6 +12,13 @@
 
 Open `index.html` in your browser, or run `npx live-server` in this folder.
 
+## Practise this
+
+The transferable skills this project drills — the reason it is in focus:
+
+- Breadth-first search driven by a queue
+- Reconstructing the path once the target is reached
+
 ## Requirements
 
 <!-- Copy the assignment steps here as a checklist before you write any code. -->
