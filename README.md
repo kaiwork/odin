@@ -126,7 +126,7 @@ _27 lessons · 12 projects_
 - [ ] `07` [Classes](02-javascript/notes/07-classes.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-classes)
 - [ ] `08` [ES6 Modules](02-javascript/notes/08-es6-modules.md) · [lesson](https://www.theodinproject.com/lessons/javascript-es6-modules)
 - [ ] `09` [npm](02-javascript/notes/09-npm.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-npm)
-- [ ] `10` [Webpack](02-javascript/notes/10-webpack.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-webpack)
+- [ ] `10` [Webpack](02-javascript/notes/10-webpack.md) · [lesson](https://www.theodinproject.com/lessons/javascript-webpack)
 - [ ] `11` [**Project: Restaurant Page**](02-javascript/projects/11-restaurant-page/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 - [ ] `12` [Revisiting Webpack](02-javascript/notes/12-revisiting-webpack.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack)
 - [ ] `13` [JSON](02-javascript/notes/13-json.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-json)
