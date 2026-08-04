@@ -91,6 +91,8 @@ reading error messages · problem decomposition
 | [`37-understanding-errors`](../00-foundations-infocus/notes/37-understanding-errors.md) | Reading stack traces |
 | [`40-loops-and-arrays`](../00-foundations-infocus/notes/40-loops-and-arrays.md) | Iteration, array methods, sorting |
 | [`44-object-basics`](../00-foundations-infocus/notes/44-object-basics.md) | Objects as keyed state |
+| [Project: Rock Paper Scissors](../00-foundations-infocus/projects/38-rock-paper-scissors/) | First pure-logic build — functions, conditionals, loops |
+| [Project: Calculator](../00-foundations-infocus/projects/45-calculator/) | Operand/operator state plus a demanding edge-case set — the discipline these questions reward |
 
 ---
 

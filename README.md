@@ -26,7 +26,7 @@ questions in `sample-questions/`, mapped to the lessons that teach them.
 
 ### `00` [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-_8 in focus · 28 later · **prerequisite path, not part of Full Stack JavaScript**_
+_10 in focus · 26 later · **prerequisite path, not part of Full Stack JavaScript**_
 
 **JavaScript Basics**
 
@@ -37,9 +37,11 @@ _8 in focus · 28 later · **prerequisite path, not part of Full Stack JavaScrip
 - [ ] `37` [Understanding Errors](00-foundations-infocus/notes/37-understanding-errors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 - [ ] `38` [**Project: Rock Paper Scissors**](00-foundations-infocus/projects/38-rock-paper-scissors/) · [lesson](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 - [ ] `40` [Loops and Arrays](00-foundations-infocus/notes/40-loops-and-arrays.md) · [lesson](https://www.theodinproject.com/lessons/foundations-loops-and-arrays)
+- [ ] `41` [DOM Manipulation and Events](00-foundations-infocus/notes/41-dom-manipulation-and-events.md) · [lesson](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
 - [ ] `44` [Object Basics](00-foundations-infocus/notes/44-object-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-object-basics)
+- [ ] `45` [**Project: Calculator**](00-foundations-infocus/projects/45-calculator/) · [lesson](https://www.theodinproject.com/lessons/foundations-calculator)
 
-<details><summary><b>Later — 28 items not needed for the practice questions</b></summary>
+<details><summary><b>Later — 26 items not needed for the practice questions</b></summary>
 
 - [ ] `06` [How Does the Web Work?](00-foundations-infocus/later/notes/06-how-does-the-web-work.md) · [lesson](https://www.theodinproject.com/lessons/foundations-how-does-the-web-work)  ·  _Prerequisites_
 - [ ] `09` [Command Line Basics](00-foundations-infocus/later/notes/09-command-line-basics.md) · [lesson](https://www.theodinproject.com/lessons/foundations-command-line-basics)  ·  _Prerequisites_
@@ -65,10 +67,8 @@ _8 in focus · 28 later · **prerequisite path, not part of Full Stack JavaScrip
 - [ ] `30` [**Project: Landing Page**](00-foundations-infocus/later/projects/30-landing-page/) · [lesson](https://www.theodinproject.com/lessons/foundations-landing-page)  ·  _Flexbox_
 - [ ] `34` [JavaScript Developer Tools](00-foundations-infocus/later/notes/34-javascript-developer-tools.md) · [lesson](https://www.theodinproject.com/lessons/foundations-javascript-developer-tools)  ·  _JavaScript Basics_
 - [ ] `39` [Clean Code](00-foundations-infocus/later/notes/39-clean-code.md) · [lesson](https://www.theodinproject.com/lessons/foundations-clean-code)  ·  _JavaScript Basics_
-- [ ] `41` [DOM Manipulation and Events](00-foundations-infocus/later/notes/41-dom-manipulation-and-events.md) · [lesson](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)  ·  _JavaScript Basics_
 - [ ] `42` [Revisiting Rock Paper Scissors](00-foundations-infocus/later/notes/42-revisiting-rock-paper-scissors.md) · [lesson](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)  ·  _JavaScript Basics_
 - [ ] `43` [**Project: Etch-a-Sketch**](00-foundations-infocus/later/projects/43-etch-a-sketch/) · [lesson](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)  ·  _JavaScript Basics_
-- [ ] `45` [**Project: Calculator**](00-foundations-infocus/later/projects/45-calculator/) · [lesson](https://www.theodinproject.com/lessons/foundations-calculator)  ·  _JavaScript Basics_
 
 </details>
 
