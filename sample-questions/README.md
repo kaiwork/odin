@@ -22,6 +22,7 @@ preserving source order
 | [`21-async-and-await`](../02-javascript-infocus/notes/21-async-and-await.md) | The syntax, including sequential vs parallel |
 | [`13-json`](../02-javascript-infocus/notes/13-json.md) | Parsing and walking a response object |
 | [Project: Weather App](../02-javascript-infocus/projects/22-weather-app/) | Fetch, parse, render — the closest project |
+| [Project: Todo List](../02-javascript-infocus/projects/15-todo-list/) | JSON round-trip — rebuilding object methods after parsing, same skill as consuming an API payload |
 | [`22-api-basics`](../06-nodejs/notes/22-api-basics.md) | The other side: designing a paginated API |
 
 ---
@@ -63,6 +64,10 @@ reading a stated input limit as a performance budget
 | [`31-common-data-structures-and-algorithms`](../02-javascript-infocus/notes/31-common-data-structures-and-algorithms.md) | Queues, greedy patterns |
 | [`33-hashmap-data-structure`](../02-javascript-infocus/notes/33-hashmap-data-structure.md) | Hash maps in depth |
 | [Project: HashMap](../02-javascript-infocus/projects/34-hashmap/) | Build one from scratch |
+| [`23-testing-basics`](../02-javascript-infocus/notes/23-testing-basics.md) | Verifying a pure function against edge cases before trusting it |
+| [Project: Testing Practice](../02-javascript-infocus/projects/24-testing-practice/) | **The closest drill to these questions** — `caesarCipher` is character-shift-with-case-preservation, `analyzeArray` returns min/max/average |
+| [Project: Tic Tac Toe](../02-javascript-infocus/projects/06-tic-tac-toe/) | A closure holding game state — same shape as per-key state in a rate limiter |
+| [Project: Battleship](../02-javascript-infocus/projects/40-battleship/) | Pure logic classes with the DOM kept out, built test-first |
 | [`05-factory-functions-and-the-module-pattern`](../02-javascript-infocus/notes/05-factory-functions-and-the-module-pattern.md) | Closures holding per-key state — the factory route to a stateful helper |
 | [`07-classes`](../02-javascript-infocus/notes/07-classes.md) | Packaging state and behaviour together — the class route |
 | [`23-api-security`](../06-nodejs/notes/23-api-security.md) | Throttling and abuse prevention in production middleware |

@@ -111,15 +111,20 @@ _19 lessons · 2 projects_
 
 ### `02` [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript)
 
-_20 in focus · 19 later_
+_29 in focus · 10 later_
 
 **Organizing Your JavaScript Code**
 
 - [ ] `02` [Organizing Code with Objects](02-javascript-infocus/notes/02-organizing-code-with-objects.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-organizing-code-with-objects)
 - [ ] `03` [Object Constructors](02-javascript-infocus/notes/03-object-constructors.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-object-constructors)
+- [ ] `04` [**Project: Library**](02-javascript-infocus/projects/04-library/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-library)
 - [ ] `05` [Factory Functions and the Module Pattern](02-javascript-infocus/notes/05-factory-functions-and-the-module-pattern.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-factory-functions-and-the-module-pattern)
+- [ ] `06` [**Project: Tic Tac Toe**](02-javascript-infocus/projects/06-tic-tac-toe/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe)
 - [ ] `07` [Classes](02-javascript-infocus/notes/07-classes.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-classes)
+- [ ] `08` [ES6 Modules](02-javascript-infocus/notes/08-es6-modules.md) · [lesson](https://www.theodinproject.com/lessons/javascript-es6-modules)
+- [ ] `09` [npm](02-javascript-infocus/notes/09-npm.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-npm)
 - [ ] `13` [JSON](02-javascript-infocus/notes/13-json.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-json)
+- [ ] `15` [**Project: Todo List**](02-javascript-infocus/projects/15-todo-list/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)
 
 **Asynchronous JavaScript and APIs**
 
@@ -127,6 +132,12 @@ _20 in focus · 19 later_
 - [ ] `20` [Working with APIs](02-javascript-infocus/notes/20-working-with-apis.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-working-with-apis)
 - [ ] `21` [Async and Await](02-javascript-infocus/notes/21-async-and-await.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-async-and-await)
 - [ ] `22` [**Project: Weather App**](02-javascript-infocus/projects/22-weather-app/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-weather-app)
+
+**Testing JavaScript**
+
+- [ ] `23` [Testing Basics](02-javascript-infocus/notes/23-testing-basics.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics)
+- [ ] `24` [**Project: Testing Practice**](02-javascript-infocus/projects/24-testing-practice/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice)
+- [ ] `25` [More Testing](02-javascript-infocus/notes/25-more-testing.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-more-testing)
 
 **A Bit of Computer Science**
 
@@ -142,27 +153,22 @@ _20 in focus · 19 later_
 - [ ] `35` [**Project: Binary Search Trees**](02-javascript-infocus/projects/35-binary-search-trees/) · [lesson](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
 - [ ] `36` [**Project: Knights Travails**](02-javascript-infocus/projects/36-knights-travails/) · [lesson](https://www.theodinproject.com/lessons/javascript-knights-travails)
 
-<details><summary><b>Later — 19 items not needed for the practice questions</b></summary>
+**Finishing Up with JavaScript**
 
-- [ ] `04` [**Project: Library**](02-javascript-infocus/later/projects/04-library/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-library)  ·  _Organizing Your JavaScript Code_
-- [ ] `06` [**Project: Tic Tac Toe**](02-javascript-infocus/later/projects/06-tic-tac-toe/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe)  ·  _Organizing Your JavaScript Code_
-- [ ] `08` [ES6 Modules](02-javascript-infocus/later/notes/08-es6-modules.md) · [lesson](https://www.theodinproject.com/lessons/javascript-es6-modules)  ·  _Organizing Your JavaScript Code_
-- [ ] `09` [npm](02-javascript-infocus/later/notes/09-npm.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-npm)  ·  _Organizing Your JavaScript Code_
+- [ ] `40` [**Project: Battleship**](02-javascript-infocus/projects/40-battleship/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-battleship)
+
+<details><summary><b>Later — 10 items not needed for the practice questions</b></summary>
+
 - [ ] `10` [Webpack](02-javascript-infocus/later/notes/10-webpack.md) · [lesson](https://www.theodinproject.com/lessons/javascript-webpack)  ·  _Organizing Your JavaScript Code_
 - [ ] `11` [**Project: Restaurant Page**](02-javascript-infocus/later/projects/11-restaurant-page/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)  ·  _Organizing Your JavaScript Code_
 - [ ] `12` [Revisiting Webpack](02-javascript-infocus/later/notes/12-revisiting-webpack.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-revisiting-webpack)  ·  _Organizing Your JavaScript Code_
 - [ ] `14` [OOP Principles](02-javascript-infocus/later/notes/14-oop-principles.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-oop-principles)  ·  _Organizing Your JavaScript Code_
-- [ ] `15` [**Project: Todo List**](02-javascript-infocus/later/projects/15-todo-list/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)  ·  _Organizing Your JavaScript Code_
 - [ ] `16` [Linting](02-javascript-infocus/later/notes/16-linting.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-linting)  ·  _JavaScript in the Real World_
 - [ ] `17` [Form Validation with JavaScript](02-javascript-infocus/later/notes/17-form-validation-with-javascript.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-form-validation-with-javascript)  ·  _JavaScript in the Real World_
 - [ ] `18` [ECMAScript](02-javascript-infocus/later/notes/18-ecmascript.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-ecmascript)  ·  _JavaScript in the Real World_
-- [ ] `23` [Testing Basics](02-javascript-infocus/later/notes/23-testing-basics.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-testing-basics)  ·  _Testing JavaScript_
-- [ ] `24` [**Project: Testing Practice**](02-javascript-infocus/later/projects/24-testing-practice/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice)  ·  _Testing JavaScript_
-- [ ] `25` [More Testing](02-javascript-infocus/later/notes/25-more-testing.md) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-more-testing)  ·  _Testing JavaScript_
 - [ ] `37` [A Deeper Look at Git](02-javascript-infocus/later/notes/37-a-deeper-look-at-git.md) · [lesson](https://www.theodinproject.com/lessons/javascript-a-deeper-look-at-git)  ·  _Intermediate Git_
 - [ ] `38` [Working with Remotes](02-javascript-infocus/later/notes/38-working-with-remotes.md) · [lesson](https://www.theodinproject.com/lessons/javascript-working-with-remotes)  ·  _Intermediate Git_
 - [ ] `39` [Using Git in the Real World](02-javascript-infocus/later/notes/39-using-git-in-the-real-world.md) · [lesson](https://www.theodinproject.com/lessons/javascript-using-git-in-the-real-world)  ·  _Intermediate Git_
-- [ ] `40` [**Project: Battleship**](02-javascript-infocus/later/projects/40-battleship/) · [lesson](https://www.theodinproject.com/lessons/node-path-javascript-battleship)  ·  _Finishing Up with JavaScript_
 
 </details>
 
