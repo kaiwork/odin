@@ -8,7 +8,7 @@ differs a lot per question.
 | # | Question | Cluster | Primary course section | Ready after |
 |---|---|---|---|---|
 | q1 | Rate limiting | Data structures & algorithms | JavaScript › A Bit of Computer Science | [`33-hashmap-data-structure`](../02-javascript/notes/33-hashmap-data-structure.md) |
-| q2 | Password string | Strings & greedy algorithms | JavaScript › A Bit of Computer Science | [`29-time-complexity`](../02-javascript/notes/29-time-complexity.md) ⚠️ see gap |
+| q2 | Password string | Strings & greedy algorithms | **Foundations › JavaScript Basics** | [`40-loops-and-arrays`](../00-foundations/notes/40-loops-and-arrays.md) |
 | q3 | Monthly Revenue | SQL aggregation | Databases | [`02-databases-and-sql`](../05-databases/notes/02-databases-and-sql.md) |
 | q4 | AI Text Rewrite Stats | SQL joins + aggregation | Databases | [`02-databases-and-sql`](../05-databases/notes/02-databases-and-sql.md) |
 | q5 | Most Active Authors | Async / REST / pagination | JavaScript › Asynchronous JavaScript and APIs | [`21-async-and-await`](../02-javascript/notes/21-async-and-await.md) |
@@ -126,25 +126,33 @@ Lessons that teach it:
 
 ---
 
-## ⚠️ Coverage gap worth knowing
+## Cluster D — The fundamentals underneath all six (Foundations)
 
-**q2 leans on string/array fundamentals that this repo doesn't cover.** Things like
-`split`, `charCodeAt`, `sort` with a comparator, and basic loop patterns are taught in
-Odin's **Foundations** course — which is a *prerequisite path*, not part of Full Stack
-JavaScript, so it isn't scaffolded here. (You chose the 7-course path; that was the
-right call, this is just the consequence.)
+Every question above assumes fluency with plain JavaScript: loops, arrays, string
+methods, functions, objects. That's **Foundations › JavaScript Basics**, now scaffolded
+as `00-foundations/`. q2 in particular is almost entirely fundamentals — it needs no
+concept from the seven main courses at all.
 
-If q2's mechanics feel shaky, the gap is Foundations › JavaScript Basics, not anything
-in these seven courses. Say the word and I'll add a `00-foundations/` course folder
-alongside the rest.
+| Lesson | Feeds |
+|---|---|
+| [`31-variables-and-operators`](../00-foundations/notes/31-variables-and-operators.md) | all |
+| [`33-data-types-and-conditionals`](../00-foundations/notes/33-data-types-and-conditionals.md) | q2's vowel/consonant classification |
+| [`35-function-basics`](../00-foundations/notes/35-function-basics.md) | every `getX(...)` signature these questions hand you |
+| [`36-problem-solving`](../00-foundations/notes/36-problem-solving.md) | **read this before attempting q1 or q2** — pseudocode-first is exactly the discipline these need |
+| [`37-understanding-errors`](../00-foundations/notes/37-understanding-errors.md) | debugging q5/q6's async stack traces |
+| [`40-loops-and-arrays`](../00-foundations/notes/40-loops-and-arrays.md) | **q2's core** — `split`, iteration, `sort` with a comparator |
+| [`44-object-basics`](../00-foundations/notes/44-object-basics.md) | q1's per-domain bookkeeping; q5/q6's response objects |
+
+> `charCodeAt` for q2's alphabet-distance cost isn't taught explicitly anywhere in the
+> path — it's a one-line MDN lookup. Don't go hunting for a lesson on it.
 
 ## Suggested order
 
 Given where these sit in the curriculum, the pragmatic sequence is:
 
-1. **q5, q6** — reachable soonest (JavaScript course, async section, ~lesson 21 of 41)
-2. **q3, q4** — pull the two Databases lessons + SQL Zoo forward; they're self-contained
-3. **q1** — after Project: HashMap, which makes it click
-4. **q2** — anytime, but shore up string fundamentals first
+1. **q2** — earliest reachable: Foundations › JavaScript Basics, no main-course content needed
+2. **q5, q6** — JavaScript course, async section (~lesson 21 of 41)
+3. **q3, q4** — pull the two Databases lessons + SQL Zoo forward; they're self-contained
+4. **q1** — after Project: HashMap, which makes it click
 
 Nothing here is blocked on React, NodeJS, or the HTML/CSS courses.
