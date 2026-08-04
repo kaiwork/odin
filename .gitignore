@@ -33,3 +33,8 @@ coverage/
 # os
 .DS_Store
 Thumbs.db
+
+# practice question statements — kept local, not published.
+# Third-party assessment content; sample-questions/README.md maps the
+# concepts to lessons without reproducing the problems themselves.
+sample-questions/*.txt
