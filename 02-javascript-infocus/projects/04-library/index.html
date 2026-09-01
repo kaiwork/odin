@@ -8,6 +8,25 @@
 </head>
 <body>
 
+  <h2>Books</h2>
+  <ul id="book-list"></ul>
+  <h2>Add a New Book</h2>
+
+  <button id="show-add-book-dialog">Add New Book</button>
+  <dialog id="add-book-dialog">
+      <form id="add-book-form">
+    <input type="text" id="title" placeholder="Title" required>
+    <input type="text" id="author" placeholder="Author" required>
+    <input type="number" id="pages" placeholder="Pages" required>
+    <label>
+      <input type="checkbox" id="read">
+      Read
+    </label>
+    <button type="submit">Add Book</button>
+  </form>
+  </dialog>
+
+
   <script src="script.js"></script>
 </body>
 </html>
