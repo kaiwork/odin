@@ -11,18 +11,25 @@
       <label>Author</label>
       <input name="author" type="text" required />
 
-      <label>Title</label>
-      <input name="title" type="text" required />
+  <h2>Books</h2>
+  <ul id="book-list"></ul>
+  <h2>Add a New Book</h2>
 
-      <label>Pages</label>
-      <input name="noPages" type="number" min="1" required />
+  <button id="show-add-book-dialog">Add New Book</button>
+  <dialog id="add-book-dialog">
+      <form id="add-book-form">
+    <input type="text" id="title" placeholder="Title" required>
+    <input type="text" id="author" placeholder="Author" required>
+    <input type="number" id="pages" placeholder="Pages" required>
+    <label>
+      <input type="checkbox" id="read">
+      Read
+    </label>
+    <button type="submit">Add Book</button>
+  </form>
+  </dialog>
 
-      <label>Is Read?</label>
-      <input name="isRead" type="checkbox" />
 
-      <button type="submit">Add Book</button>
-    </form>
-    <div id="library-container"></div>
-    <script src="script.js"></script>
-  </body>
+  <script src="script.js"></script>
+</body>
 </html>
