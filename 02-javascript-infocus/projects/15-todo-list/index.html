@@ -1,13 +1,29 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Todo List</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo List</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>My Todo List</h1>
 
-  <script src="script.js"></script>
-</body>
+    <!-- Todo Form -->
+    <form id="todo-form">
+      <input type="text" id="title" placeholder="Todo Title" required />
+      <input type="text" id="description" placeholder="Description" />
+      <input type="date" id="due-date" required />
+      <select id="priority">
+        <option value="Low">Low</option>
+        <option value="Medium">Medium</option>
+        <option value="High">High</option>
+      </select>
+      <button type="submit">Add Todo</button>
+    </form>
+
+    <!-- Container where todos will appear -->
+    <div id="todo-container"></div>
+    <script src="script.js"></script>
+  </body>
 </html>
